@@ -16,15 +16,14 @@ Run the program and a blank U.S. map appears. Type the name of a state into the 
 1. Clone or download this repository.  
 2. Install the required package:
 
-   ```bash
+   ```
    pip install pandas
-````
 
 ## Running the game
 
 From the project directory, execute:
 
-```bash
+```
 python main.py
 ```
 
