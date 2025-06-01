@@ -1,4 +1,4 @@
-````markdown
+
 # U.S. States Quiz Game
 
 ![Game board](blank_states_img.gif)
@@ -6,7 +6,7 @@
 A lightweight Python turtle-graphics game that challenges you to name all 50 U.S. states.
 
 ## How it works
-Run the program and a blank U.S. map appears. Type the name of a state into the prompt. If you’re correct the name is written on the map at the proper location and your score increases. Type `Exit` at any time to end the session and see which states you missed.
+Run the program and a blank U.S. map appears. Type the name of a state into the prompt. If you’re correct, the name is written on the map at the proper location and your score increases. Type `Exit` at any time to end the session and see which states you missed.
 
 ## Prerequisites
 - Python 3.9 or later  
@@ -40,8 +40,3 @@ python main.py
 ## License
 
 Distributed under the MIT License.
-
-```
-
-Everything in the README reflects the behavior of your `main.py` script—including the prompt flow, score tracking, and the `Exit` command. :contentReference[oaicite:0]{index=0}
-```
